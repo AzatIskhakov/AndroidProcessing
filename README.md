@@ -1,1 +1,1 @@
-"# AndroidProcessing" 
+"# Incomplete project for Android" 
